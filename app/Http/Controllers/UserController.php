@@ -11,4 +11,9 @@ class UserController extends Controller
     {
         echo 'hello';;
     }
+
+    public function create()
+    {
+        echo 'Tôi là Nam';
+    }
 }
