@@ -31,4 +31,9 @@ class UserController extends Controller
     {
         echo "ok anh";
     }
+
+    public function delete()
+    {
+        echo ' lan edit cuoi';
+    }
 }
