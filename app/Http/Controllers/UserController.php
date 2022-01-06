@@ -16,4 +16,9 @@ class UserController extends Controller
     {
         echo 'Tôi là Nam';
     }
+
+    public function store()
+    {
+        echo 'anh nam nhìn thấy chưa';
+    }
 }
