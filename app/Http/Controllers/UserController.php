@@ -26,4 +26,9 @@ class UserController extends Controller
     {
         echo 'ok chua e oy?';
     }
+
+    public function update()
+    {
+        echo "ok anh";
+    }
 }
