@@ -9,11 +9,16 @@ class UserController extends Controller
     //
     public function index()
     {
-        echo 'hello';
+        echo 'hello';;
     }
 
     public function create()
     {
         echo 'Tôi là Nam';
+    }
+
+    public function store()
+    {
+        echo 'anh nam nhìn thấy chưa';
     }
 }
