@@ -21,4 +21,9 @@ class UserController extends Controller
     {
         echo 'anh nam nhìn thấy chưa';
     }
+
+    public function edit()
+    {
+        echo 'ok chua e oy?';
+    }
 }
